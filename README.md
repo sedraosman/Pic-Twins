@@ -1,16 +1,36 @@
-# game_app
+# 🖼️ Pic-Twins
 
-A new Flutter project.
+Pic-Twins is a simple **Flutter image matching game** built using `StatefulWidget`, `setState`, and Dart’s `Random()`.
 
-## Getting Started
+In this game, two images are displayed side by side. When the user taps either image, both images change randomly. If the two images match, the player wins and the score increases.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Gameplay
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Two images are shown on the screen simultaneously  
+- Tap either image to generate a new pair of random pictures  
+- If both images are the same, the user earns a point  
+- Fun and interactive matching game logic  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Features
+
+- Simple and intuitive gameplay  
+- Built with core Flutter widgets  
+- Random image selection  
+- Score increment on matching images  
+- Works on mobile platforms supported by Flutter  
+
+---
+
+## ⚙️ Technologies Used
+
+- Flutter  
+- Dart  
+- StatefulWidget  
+- setState  
+- Random()  
+
+---
